@@ -1,0 +1,28 @@
+body {
+        background: url('img/ESO_-_Milky_Way.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        font-family: 'Arvo', serif;
+        padding-top: 70px;
+        position: relative;
+        }
+
+      /* Images */
+      img {
+        width: 100%;
+      }
+
+        /* Navigation */
+
+        .navbar-brand {
+            font-size: 30px;
+            
+
+        }
+        .navbar-inverse {
+            font-family: 'Arvo', serif;
+            margin: 0;
+            padding: 20px 0 20px 0;
+        } 
